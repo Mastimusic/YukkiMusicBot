@@ -14,7 +14,7 @@
 
 # 🔗 An Overview
 
-Here's a brief high-level overview of the Yukki Music Bot:
+Here's a brief high-level overview of the Patel Music Bot:
 
 This project is based on [Pyrogram](https://github.com/pyrogram) and [Py-Tgcalls](https://github.com/pytgcalls/pytgcalls) . Pyrogram is a modern, elegant and asynchronous MTProto API framework.
 
@@ -31,9 +31,9 @@ For more information on the technologies that power the Yukki Music Bot, check o
 
 ### Before deploying Patel Music Bot , please have a look towards [all available config vars](../config/README.md) , also please check [all available commands](../strings/command.yml) of the project.
 
-> If you want to start working with Yukki Music Bot you can either fork or import repo .
+> If you want to start working with Patel Music Bot you can either fork or import repo .
 > The official [documentation site](https://notreallyshikhar.gitbook.io/yukkimusicbot/) contains a lot of information. The best place to start is from the deployment section.
-> If you'd like to talk to us, join us on our [Telegram Group](https://t.me/YukkiSupport)
+> If you'd like to talk to us, join us on our [Telegram Group](https://t.me/patelmod)
 
 
 ## 🖇 Prerequisites
@@ -51,7 +51,7 @@ For more information on the technologies that power the Yukki Music Bot, check o
 
 - Generate a Pyrogram String Session via [Replit](https://replit.com/@NotReallyShikhar/Yukki-Music-String-Gen)
 
-- Generate a Pyrogram String Session via [Telegram String Generation Bot](https://t.me/YukkiStringBot)
+- Generate a Pyrogram String Session via [Telegram String Generation Bot](https://t.me/patelmod)
 
 
 ## 🚀 Heroku Deployment
